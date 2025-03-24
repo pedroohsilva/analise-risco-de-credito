@@ -10,15 +10,15 @@ Exemplos práticos de aplicação deste projeto incluem fintechs renomadas como 
 
 ### Etapas do Projeto:
 
-| Etapa                                | Descrição                                                                                                              | Status do Projeto          |
-|--------------------------------------|------------------------------------------------------------------------------------------------------------------------|------------------|
-| **Extração dos Dados**               | Coleta e obtenção dos dados relevantes ao problema.                           | Concluído ✅       |
-| **Análise Exploratória**             | Explorar os dados para identificar padrões, entender a distribuição das variáveis e possíveis relações entre elas.     | Concluído ✅       |
-| **Pré-Processamento de Dados**       | Limpeza e tratamento dos dados, incluindo valores ausentes, outliers e normalização de variáveis.                      | Concluído ✅         |
-| **Desenvolvimento do Modelo de ML**  | Escolha, treinamento e ajuste dos algoritmos mais adequados para previsão de risco de crédito.                         | Pausado         |
-| **Classificação**                    | Implementação dos modelos selecionados para classificação dos clientes quanto ao risco de inadimplência.               | Pendente         |
-| **Análise e Interpretação**          | Avaliação dos resultados obtidos pelos modelos, compreendendo métricas de desempenho e relevância das variáveis.       | Pendente         |
-| **Tomada de Decisões**               | Utilização dos insights obtidos para auxiliar as instituições financeiras na tomada de decisões estratégicas.          | Pendente         |
+| Etapa                                | Descrição                                                                                                              | Status de Progresso | Data de Conclusão |
+|--------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------------------|-------------------|
+| **Extração dos Dados**               | Coleta e obtenção dos dados relevantes ao problema.                                                                     | Concluído ✅      | 23/03/2024        |
+| **Análise Exploratória**             | Explorar os dados para identificar padrões, entender a distribuição das variáveis e possíveis relações entre elas.     | Concluído ✅      | 23/03/2024        |
+| **Pré-Processamento de Dados**       | Limpeza e tratamento dos dados, incluindo valores ausentes, outliers e normalização de variáveis.                      | Concluído ✅      | 24/03/2024      |
+| **Desenvolvimento do Modelo de ML**  | Escolha, treinamento e ajuste dos algoritmos mais adequados para previsão de risco de crédito.                         | Concluindo  🔄           | -                 |
+| **Classificação**                    | Implementação dos modelos selecionados para classificação dos clientes quanto ao risco de inadimplência.               | Pendente 🟡         | -                 |
+| **Análise e Interpretação**          | Avaliação dos resultados obtidos pelos modelos, compreendendo métricas de desempenho e relevância das variáveis.       | Pendente 🟡         | -                 |
+| **Tomada de Decisões**               | Utilização dos insights obtidos para auxiliar as instituições financeiras na tomada de decisões estratégicas.          | Pendente 🟡         | -                 |
 
 ---
 
