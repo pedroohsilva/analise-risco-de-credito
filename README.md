@@ -1,8 +1,19 @@
-## Análise de Risco de Crédito
+# Análise de Risco de Crédito
 
+### Introdução:
 A análise de risco de crédito é uma etapa fundamental no processo de tomada de decisão das instituições financeiras, permitindo a mitigação de prejuízos causados por inadimplências. Este projeto busca aplicar técnicas de Machine Learning e Data Science para avaliar o comportamento financeiro dos clientes e prever riscos com maior precisão e confiabilidade.
 
 Exemplos práticos de aplicação deste projeto incluem fintechs renomadas como **Nubank**, **Creditas**, **PicPay** e **Banco Inter**, que utilizam análises avançadas para avaliação de crédito e decisões estratégicas relacionadas à concessão de empréstimos e financiamentos.
+
+### Objetivos:
+- Prever com precisão o risco de inadimplência, utilizando algoritmos de Machine Learning para identificar clientes com maior potencial de inadimplir, reduzindo riscos financeiros para instituições.
+
+- Auxiliar decisões estratégicas, fornecendo insights confiáveis que permitam tomadas de decisão mais informadas, ágeis e eficientes nas instituições financeiras e fintechs.
+
+- Desenvolver e aprimorar competências técnicas, incluindo análise de dados, pré-processamento avançado, modelagem estatística e integração de modelos com sistemas reais, fortalecendo minha preparação profissional.
+
+
+---
 
 ### Exemplo de Classificação:
 
@@ -38,5 +49,3 @@ Exemplos práticos de aplicação deste projeto incluem fintechs renomadas como 
 Este projeto possui grande relevância prática, sendo diretamente aplicável em cenários reais do mercado financeiro. Instituições como bancos, fintechs e cooperativas de crédito podem utilizar este tipo de análise para aprimorar a tomada de decisões, reduzir a exposição ao risco e otimizar resultados financeiros.
 
 Além disso, as habilidades desenvolvidas durante o projeto, como **análise** e **pré-processamento de dados**, **modelagem estatística** e aplicação de **Machine Learning**, são fundamentais e valorizadas no mercado de trabalho atual, destacando a importância deste projeto para crescimento profissional e técnico.
-
-
