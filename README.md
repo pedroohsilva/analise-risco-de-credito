@@ -1,10 +1,16 @@
 ## Análise de Risco de Crédito
 
-Este projeto tem como objetivo principal desenvolver um modelo para análise e previsão de risco de crédito, identificando clientes com maior probabilidade de inadimplência com base em dados históricos e características financeiras.
-
 A análise de risco de crédito é uma etapa fundamental no processo de tomada de decisão das instituições financeiras, permitindo a mitigação de prejuízos causados por inadimplências. Este projeto busca aplicar técnicas de Machine Learning e Data Science para avaliar o comportamento financeiro dos clientes e prever riscos com maior precisão e confiabilidade.
 
 Exemplos práticos de aplicação deste projeto incluem fintechs renomadas como **Nubank**, **Creditas**, **PicPay** e **Banco Inter**, que utilizam análises avançadas para avaliação de crédito e decisões estratégicas relacionadas à concessão de empréstimos e financiamentos.
+
+### Exemplo de Classificação:
+
+| Cliente | Renda | Histórico de Crédito | Dívidas Atuais | Idade | Classe Prevista |
+|---------|-------|----------------------|----------------|-------|-----------------|
+| A       | Alta  | Bom                  | Baixas         | 35    | Baixo Risco ✅  |
+| B       | Média | Regular              | Médias         | 45    | Médio Risco ⚠️ |
+| C       | Baixa | Ruim                 | Altas          | 28    | Alto Risco ❌   |
 
 ---
 
@@ -22,9 +28,10 @@ Exemplos práticos de aplicação deste projeto incluem fintechs renomadas como 
 
 ---
 
-### Tecnologias Utilizadas:
+### Conhecimentos Utilizadas:
 
-- Python (Pandas, NumPy)
+- Python para Data Science e Machine Learning
+- Algoritmo Naive Bayes
 
 ### Conclusão:
 
