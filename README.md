@@ -1,4 +1,4 @@
-# Análise de Risco de Crédito
+# Análise de Risco de Crédito 💸
 
 ### Introdução:
 A análise de risco de crédito é uma etapa fundamental no processo de tomada de decisão das instituições financeiras, permitindo a mitigação de prejuízos causados por inadimplências. Este projeto busca aplicar técnicas de Machine Learning e Data Science para avaliar o comportamento financeiro dos clientes e prever riscos com maior precisão e confiabilidade.
