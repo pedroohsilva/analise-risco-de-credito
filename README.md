@@ -29,6 +29,7 @@ Exemplos práticos de aplicação deste projeto incluem fintechs renomadas como 
 
 | Etapa                                | Descrição                                                                                                              | Status de Progresso | Data de Conclusão |
 |--------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------------------|-------------------|
+| **Entender o Problema**               | Compreensão do problema a ser solucionado.                                                                     | Concluído✅      | 23/03/2024        |
 | **Extração dos Dados**               | Coleta e obtenção dos dados relevantes ao problema.                                                                     | Concluído✅      | 23/03/2024        |
 | **Análise Exploratória**             | Explorar os dados para identificar padrões, entender a distribuição das variáveis e possíveis relações entre elas.     | Concluído✅      | 23/03/2024        |
 | **Pré-Processamento de Dados**       | Limpeza e tratamento dos dados, incluindo valores ausentes, outliers e normalização de variáveis.                      | Concluído✅      | 25/03/2024      |
