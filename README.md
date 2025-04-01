@@ -35,8 +35,8 @@ Exemplos práticos de aplicação deste projeto incluem fintechs renomadas como 
 | **Pré-Processamento de Dados**       | Limpeza e tratamento dos dados, incluindo valores ausentes, outliers e normalização de variáveis.                      | Concluído✅      | 25/03/2024      |
 | **Desenvolvimento do Modelo de ML**  | Algoritmo Naive Bayes, treinamento e ajuste necessários para previsão de risco de crédito.                         | Concluído✅           | 25/03/2025                 |
 | **Classificação**                    | Implementação dos modelo para classificação dos clientes quanto ao risco de inadimplência.               | Concluído✅         | 25/03/2025                 |
-| **Análise e Interpretação**          | Avaliação dos resultados obtidos pelos modelos, compreendendo métricas de desempenho e relevância das variáveis.       | Pendente🟡         | -                 |
-| **Tomada de Decisões**               | Utilização dos insights obtidos para auxiliar as instituições financeiras na tomada de decisões estratégicas.          | Pendente🟡         | -                 |
+| **Análise e Interpretação**          | Avaliação dos resultados obtidos pelos modelos, compreendendo métricas de desempenho e relevância das variáveis.       | Não iniciado🟡         | -                 |
+| **Tomada de Decisões**               | Utilização dos insights obtidos para auxiliar as instituições financeiras na tomada de decisões estratégicas.          | Não iniciado🟡         | -                 |
 
 ---
 
