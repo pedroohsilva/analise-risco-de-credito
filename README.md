@@ -10,7 +10,7 @@ Exemplos práticos de aplicação deste projeto incluem fintechs renomadas como 
 
 - Auxiliar decisões estratégicas, fornecendo insights confiáveis que permitam tomadas de decisão mais informadas, ágeis e eficientes nas instituições financeiras e fintechs.
 
-- Desenvolver e aprimorar competências técnicas, incluindo análise de dados, pré-processamento avançado, modelagem estatística e integração de modelos com sistemas reais, fortalecendo minha preparação profissional.
+- Desenvolver e aprimorar competências técnicas, incluindo análise de dados, pré-processamento de dados, modelagem estatística e aplicação de modelos emm cenários reais, fortalecendo minha preparação profissional.
 
 
 ---
